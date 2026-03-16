@@ -7,5 +7,8 @@ public class Variables {
         System.out.println(b);
         String name = "Diya";
         System.out.println(name);
+
+        a=50;
+        System.out.println(a);
     }
 }
