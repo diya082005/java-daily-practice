@@ -10,5 +10,8 @@ public class Variables {
 
         a=50;
         System.out.println(a);
+
+        a=b;
+        System.out.println(a);
     }
 }
